@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [2235-add-two-integers](https://github.com/Sai-Tanay/leetcode/tree/master/2235-add-two-integers) |
 | [2544-alternating-digit-sum](https://github.com/Sai-Tanay/leetcode/tree/master/2544-alternating-digit-sum) |
 ## Array
 |  |
