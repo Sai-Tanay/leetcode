@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sai-Tanay/leetcode/tree/master/0053-maximum-subarray) |
 | [1929-concatenation-of-array](https://github.com/Sai-Tanay/leetcode/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Sai-Tanay/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Simulation
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sai-Tanay/leetcode/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sai-Tanay/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sai-Tanay/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
